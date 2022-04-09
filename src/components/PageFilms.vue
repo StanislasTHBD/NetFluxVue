@@ -7,7 +7,7 @@
         <h2>Titre : </h2>
         <h3>{{post.original_title}}</h3>
         <div class ="plusdetails">
-            <h5>Date : {{post.release_date}}</h5>
+            <h5>Date de sortie: {{post.release_date}}</h5>
             <h5>Note : {{post.vote_average}} / 10</h5>
             <h5>Nombre de votes : {{post.vote_count}}</h5>
         </div>
